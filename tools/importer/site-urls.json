@@ -1,0 +1,728 @@
+{
+  "originUrl": "https://www.astrazeneca-us.com",
+  "aborted": false,
+  "lastCrawled": "https://www.astrazeneca-us.com/",
+  "urls": [
+    {
+      "url": "https://www.astrazeneca-us.com/",
+      "source": "CRAWL",
+      "targetPath": "/",
+      "id": "6b94c73bea2cfa3a511b3e653ebd5d82cc954320"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/astrazeneca-impact-in-the-us.html",
+      "source": "CRAWL",
+      "targetPath": "/astrazeneca-impact-in-the-us",
+      "id": "9da7f0a89cbec6914826fa30ddbe37e526a2f7bb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us",
+      "id": "e5b71695dad285482db29833a6d2787520b17292"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/alison-dziarmaga.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/alison-dziarmaga",
+      "id": "e0aacc90ff11f38c694b47cfa5029a82c1ded4db"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/arun-krishna.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/arun-krishna",
+      "id": "b33decb76347b2545ecaafac9ac2ee539c706f3d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/bruce-wilson.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/bruce-wilson",
+      "id": "6a04b5a1e1dc666315b5f3e7aa377b4a258ca687"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/carlos-doti.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/carlos-doti",
+      "id": "de23beb7773ba85224dada381c747cca1d89856b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/chris-mancill.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/chris-mancill",
+      "id": "6e06ef661e1f40f765f0a5530583e7c52269c19d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/colleen-kempf.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/colleen-kempf",
+      "id": "3bb505d290b1dbd16ebc9b3c92de4712d07b51d7"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/Contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/contact-us",
+      "id": "d5b3a2c1850db36766c9c41ed9d38cbe2519f6ec"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/dan-wygal.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/dan-wygal",
+      "id": "e7b948c83296615a65c6bbb3d6de26ddfd04bc44"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/daniele-paone.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/daniele-paone",
+      "id": "9317782fb270a3d22153e8e9e0697b3e338a4ceb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/joris-silon.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/joris-silon",
+      "id": "58eb84d867b1023feb4109787905f690c68e3143"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/kevin-durning.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/kevin-durning",
+      "id": "baddd3291fb51636a2c696a1371a2c54eb5fe5ec"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/liz-bodin.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/liz-bodin",
+      "id": "4fe9df2d1501057833a06361872557a95616fb51"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/mariam-koohdary.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/mariam-koohdary",
+      "id": "f61ba634dbb2764df68a192aebe3a02fea8b40f1"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/miroslav-sokolov.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/miroslav-sokolov",
+      "id": "1afa8b861aa0d7bb496c6cc53a8dcc70f05eebbb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/mohit-manrao.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/mohit-manrao",
+      "id": "c8703c0d3aaa57bd2aa0603fb5ed83b5c60909b5"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/nancy-ghattas.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/nancy-ghattas",
+      "id": "6379a1f084a239d9138ab979ca6707fb22e7f08c"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/nilsa-sanchez.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/nilsa-sanchez",
+      "id": "503eac53e33c001531e79084974e7affcaeaa491"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/sarah-walters.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/sarah-walters",
+      "id": "e002e895443613da2e69b10f9bbb3216d526fb78"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/az-in-us/tiffany-davis.html",
+      "source": "CRAWL",
+      "targetPath": "/az-in-us/tiffany-davis",
+      "id": "50e6e81738c19c775e1e6ee11e0bf35ea7fbdbc4"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/california-supply-chains-disclosure.html",
+      "source": "CRAWL",
+      "targetPath": "/california-supply-chains-disclosure",
+      "id": "46d98670894a29efe37d60ac3f5796afeb31d3d8"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/careers.html",
+      "source": "CRAWL",
+      "targetPath": "/careers",
+      "id": "53412a4847deb4381707acdc177a19f55d633c36"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/content/az-us/media/astrazeneca-us-blog/2022/harnessing-the-power-of-community-the-act-on-health-equity-community-solutions-challenge-is-back-04062022.html",
+      "source": "CRAWL",
+      "targetPath": "/content/az-us/media/astrazeneca-us-blog/2022/harnessing-the-power-of-community-the-act-on-health-equity-community-solutions-challenge-is-back-04062022",
+      "id": "e2d73b9e798cce70dae38f23f1433d7a5763b83a"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/copyright.html",
+      "source": "CRAWL",
+      "targetPath": "/copyright",
+      "id": "a10b51d376f8c26b66ae7c9d701e5e3a0ed272d5"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/legal-notice.html",
+      "source": "CRAWL",
+      "targetPath": "/legal-notice",
+      "id": "42f568ff074a77f56953e3ab85a10ea507c4ee3a"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media.html",
+      "source": "CRAWL",
+      "targetPath": "/media",
+      "id": "1db023ee02285ee46b9b009399c2df418e90a2ab"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles",
+      "id": "b1c7e7df6908e6b6e6df5907e6dbcabfe23f11fa"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/addressing-barriers-to-optimal-cancer-care-to-help-improve-access-and-outcomes-01032024.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/addressing-barriers-to-optimal-cancer-care-to-help-improve-access-and-outcomes-01032024",
+      "id": "be6149cd3e5cd6b25a24715dc8329eac06d199dc"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/green-patients-healthy-planet.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/green-patients-healthy-planet",
+      "id": "73159692d2b9cf0a6028cf77567f4ed882114ff2"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/investing-in-health-investing-in-nature.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/investing-in-health-investing-in-nature",
+      "id": "2e0426be50417a1705a4ceaf405f8dad633a3ddb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/lung-health-in-a-changing-climate-astrazenecas-commitment-to-equity-and-action.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/lung-health-in-a-changing-climate-astrazenecas-commitment-to-equity-and-action",
+      "id": "576f987effd0784f749ecb8fb69a2fea74788836"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/oncology-trailblazers-risk-and-hope-driving-improvements-in-cancer-care.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/oncology-trailblazers-risk-and-hope-driving-improvements-in-cancer-care",
+      "id": "15ea1580117a9286b94be925987477f7e823c27d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2024/survey-finds-knowledge-gaps-in-cancer-screening-and-access-to-care-01312024.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2024/survey-finds-knowledge-gaps-in-cancer-screening-and-access-to-care-01312024",
+      "id": "6b35559e92a08c94256f7a4e5adf38e82f5a4312"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2025/advancing-flu-protection-the-need-to-increase-access-and-impact.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2025/advancing-flu-protection-the-need-to-increase-access-and-impact",
+      "id": "e304e7be4dd6985fb1638284afdbbf53c97bf9a5"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2025/employee-volunteerism-inspiring-positive-change-in-our-communities.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2025/employee-volunteerism-inspiring-positive-change-in-our-communities",
+      "id": "57c1743ce3516b7e8ba535854174109557214ed9"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2025/Partnerships-in-Motion-How-Cross-Sector-Collaboration-is-Powering-Broader-Clinical-Trial-Representation.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2025/partnerships-in-motion-how-cross-sector-collaboration-is-powering-broader-clinical-trial-representation",
+      "id": "6d12b3cbd4b3e275f808ef845eb7d977b06da508"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/articles/2025/rooted-in-legacy-leading-into-the-future.html",
+      "source": "CRAWL",
+      "targetPath": "/media/articles/2025/rooted-in-legacy-leading-into-the-future",
+      "id": "6302ce7c400dc16009ba7b963a67fe04ef1f6bbb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog",
+      "id": "bb30175db5f0d262b85c45347921827f22d3f89b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2018/7th-annual-womens-summit-challenges-employees-to-believe-lead-change-09182018.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2018/7th-annual-womens-summit-challenges-employees-to-believe-lead-change-09182018",
+      "id": "524fb1e8b7a6aaa439ee4e9570d400ee39ffc19c"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2018/a-years-worth-of-giving-our-2017-power-of-us-impact-01222018.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2018/a-years-worth-of-giving-our-2017-power-of-us-impact-01222018",
+      "id": "1d15bfd841118332a3695d5d12b54801c1add1bf"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2021/advancing-health-equity-through-community-based-contributions-announcing-the-act-on-health-equity-community-solutions-challenge-recipients.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2021/advancing-health-equity-through-community-based-contributions-announcing-the-act-on-health-equity-community-solutions-challenge-recipients",
+      "id": "c8dc5711b51890f190aabae882bca8cbd64fa250"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2022/advancing-access-and-heart-health-a-decade-of-community-impact-10252022.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2022/advancing-access-and-heart-health-a-decade-of-community-impact-10252022",
+      "id": "7073363d91ccbba4c9e6554414a0e9d5cf52914e"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2022/meet-our-2021-power-of-us-award-winners-02092022.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2022/meet-our-2021-power-of-us-award-winners-02092022",
+      "id": "155e0adb7cc6f1cf43732e3db59497525792a3cf"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2024/advancing-our-health-equity-ambition-2023-2024-act-on-health-equity-community-investments-02222024.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2024/advancing-our-health-equity-ambition-2023-2024-act-on-health-equity-community-investments-02222024",
+      "id": "8aca1922ad7330a5b2ceff171101568dc80b6f22"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2024/breathing-easier-astrazenecas-ongoing-commitment-to-lung-health.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2024/breathing-easier-astrazenecas-ongoing-commitment-to-lung-health",
+      "id": "d80b74ef9a74c4c4981b75ce4fe1560ae0c55a14"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2024/taking-the-wheel-in-diverse-clinical-trial-recruitment-introducing-az-aire-mobile-unit.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2024/taking-the-wheel-in-diverse-clinical-trial-recruitment-introducing-az-aire-mobile-unit",
+      "id": "0be2b2d9675b77446b2d8d75b7b8efe5ca6f0f31"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2024/transthyretin-amyloidosis-the-importance-and-need-for-early-diagnosis.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2024/transthyretin-amyloidosis-the-importance-and-need-for-early-diagnosis",
+      "id": "8c6d9bc5956a2524c97f0e66707a05d28d895757"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/bladder-cancer-awareness-month-shifting-the-paradigm-for-patients-with-muscle-invasive-bladder-cancer1.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/bladder-cancer-awareness-month-shifting-the-paradigm-for-patients-with-muscle-invasive-bladder-cancer1",
+      "id": "7674e32bc208269db0a2246f6638190600d2a45d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/celebrating-national-nonprofit-day-partnerships-that-transform-healthcare-access.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/celebrating-national-nonprofit-day-partnerships-that-transform-healthcare-access",
+      "id": "9c8b7755fb3f9b309db8eb85f4842af32f17d2cb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/gastric-and-gastroesophageal-junction-cancers-in-focus-understanding-potential-symptoms-risks-and-treatment-options.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/gastric-and-gastroesophageal-junction-cancers-in-focus-understanding-potential-symptoms-risks-and-treatment-options",
+      "id": "26510f1066d30f758ee6b78d95a195240265a50d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/innovating-for-every-breath-our-bold-approach-to-respiratory-care.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/innovating-for-every-breath-our-bold-approach-to-respiratory-care",
+      "id": "c0c0c0b6135c76a6448985450a5c0cb89df0a35b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/redefining-lupus-care-the-path-to-health-equity-and-innovation.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/redefining-lupus-care-the-path-to-health-equity-and-innovation",
+      "id": "985f3ad7d2b189701475a2244b70e58ade17b25f"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/astrazeneca-us-blog/2025/Under-Pressure-Hypertension-and-the-Heart.html",
+      "source": "CRAWL",
+      "targetPath": "/media/astrazeneca-us-blog/2025/under-pressure-hypertension-and-the-heart",
+      "id": "c715c6cde979d217313138e94c62b438644368b7"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/personified.html",
+      "source": "CRAWL",
+      "targetPath": "/media/personified",
+      "id": "7ef935bb26763bfaf338e5be5e2dab6c23eb0b4d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/personified/our-employees.html",
+      "source": "CRAWL",
+      "targetPath": "/media/personified/our-employees",
+      "id": "d5558766f7ff4a9100e223b613b4362a869238fe"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/personified/our-employees/personified-interns-2025.html",
+      "source": "CRAWL",
+      "targetPath": "/media/personified/our-employees/personified-interns-2025",
+      "id": "3901a412a7e5a71f2fc5db610492cb1421a637f0"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/personified/our-leadership-team.html",
+      "source": "CRAWL",
+      "targetPath": "/media/personified/our-leadership-team",
+      "id": "96193cddfa836afea9130bcad3241b1e564053e9"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases",
+      "id": "3abcb220afed86b15bc3456342d0f07b314cbb68"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2024/astrazeneca-expands-us-manufacturing-footprint-to-accelerate-ambitions-in-next-generation-cell-therapy-discovery-and-development.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2024/astrazeneca-expands-us-manufacturing-footprint-to-accelerate-ambitions-in-next-generation-cell-therapy-discovery-and-development",
+      "id": "75dbe566126adb2bb429edd2f352497b3067a3f8"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2024/astrazeneca-responds-to-white-house-prepare-call-to-action-to-bolster-community-and-health-system-resilience-to-climate-change.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2024/astrazeneca-responds-to-white-house-prepare-call-to-action-to-bolster-community-and-health-system-resilience-to-climate-change",
+      "id": "bcc7dd3b551240aac1ba897b67f443e590e32b8e"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/AIRSUPRA-albuterol-budesonide-US-prescribing-information-updated-to-reflect-the-statistically-significant-severe-exacerbation-risk-reduction-in-patients-with-mild-asthma-compared-with-albuterol.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/airsupra-albuterol-budesonide-us-prescribing-information-updated-to-reflect-the-statistically-significant-severe-exacerbation-risk-reduction-in-patients-with-mild-asthma-compared-with-albuterol",
+      "id": "976017bed056b2862e9a4bde7a4af7f61b4ce6ff"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/AstraZeneca-and-Erin-Andrews-team-up-to-inspire-fans-to-Get-Body-Checked-Against-Cancer.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/astrazeneca-and-erin-andrews-team-up-to-inspire-fans-to-get-body-checked-against-cancer",
+      "id": "08e66bc13818acb6a34c86eec65ca98abf5c6ed7"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/AstraZeneca-plans-to-invest-50-billion-in-America-for-medicines-manufacturing-and-R-and-D.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/astrazeneca-plans-to-invest-50-billion-in-america-for-medicines-manufacturing-and-r-and-d",
+      "id": "ffde8c6ec881854bb7ddc0ef798d0053932540cf"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/astrazenecas-mount-vernon-ndiana-supply-site-earns-its-first-epa-energy-star-certification-for-superior-energy-efficiency.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/astrazenecas-mount-vernon-ndiana-supply-site-earns-its-first-epa-energy-star-certification-for-superior-energy-efficiency",
+      "id": "2fa21789e798d8a31526b826ec60d0467d559c25"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/AstraZenecas-record-seventh-year-of-plenary-data-at-ASCO-furthers-ambition-to-redefine-breast-cancer-care-and-transform-outcomes-in-gastric-cancer.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/astrazenecas-record-seventh-year-of-plenary-data-at-asco-furthers-ambition-to-redefine-breast-cancer-care-and-transform-outcomes-in-gastric-cancer",
+      "id": "6acad97b5fb5eb4a13269bb569728101ca3042fc"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/Camizestrant-reduced-the-risk-of-disease-progression-or-death-by-56-in-patients-with-advanced-HR-positive-breast-cancer-with-an-emergent-ESR1-tumor-mutation-in-SERENA-6-Phase-III-trial.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/camizestrant-reduced-the-risk-of-disease-progression-or-death-by-56-in-patients-with-advanced-hr-positive-breast-cancer-with-an-emergent-esr1-tumor-mutation-in-serena-6-phase-iii-trial",
+      "id": "0d879b48ca3c36f63f9e6d3fb38f2cfcecb4d4da"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/FLUMIST-the-nations-only-nasal-spray-flu-vaccine-now-available-for-home-delivery.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/flumist-the-nations-only-nasal-spray-flu-vaccine-now-available-for-home-delivery",
+      "id": "f69df5fe1d262dacc4d0bfb90a601ba417e93dd9"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/IMFINZI-durvalumab-granted-priority-review-and-breakthrough-therapy-designation-in-the-US-for-patients-with-resectable-early-stage-gastric-and-gastroesophageal-junction-cancers.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/imfinzi-durvalumab-granted-priority-review-and-breakthrough-therapy-designation-in-the-us-for-patients-with-resectable-early-stage-gastric-and-gastroesophageal-junction-cancers",
+      "id": "d3de926e7b7bc23ae708d027bf9d5d960192b8ac"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/IMFINZI-durvalumab-regimen-reduced-risk-of-progression-recurrence-or-death-by-29-percent-in-early-stage-gastric-cancer-vs-chemotherapy-alone-in-MATTERHORN-Phase-III-trial.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/imfinzi-durvalumab-regimen-reduced-risk-of-progression-recurrence-or-death-by-29-percent-in-early-stage-gastric-cancer-vs-chemotherapy-alone-in-matterhorn-phase-iii-trial",
+      "id": "f89ab56fc641a3771d9f791f5e92cfa54a07dff0"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/SAPHNELO-self-administration-TULIP-SC-Phase-III-trial-meets-primary-endpoint-in-patients-with-systemic-lupus-erythematosus-based-on-an-interim-analysis.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/saphnelo-self-administration-tulip-sc-phase-iii-trial-meets-primary-endpoint-in-patients-with-systemic-lupus-erythematosus-based-on-an-interim-analysis",
+      "id": "019fec808890cfe32d8833d27890b645a39d2a0d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/TAGRISSO-osimertinib-plus-chemotherapy-demonstrated-a-median-overall-survival-of-nearly-four-years-the-longest-benefit-ever-reported-in-a-global-Phase-III-trial-in-EGFR-mutated-advanced-lung-cancer.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/tagrisso-osimertinib-plus-chemotherapy-demonstrated-a-median-overall-survival-of-nearly-four-years-the-longest-benefit-ever-reported-in-a-global-phase-iii-trial-in-egfr-mutated-advanced-lung-cancer",
+      "id": "099660569cefc61000e817b5f059d20ccd6d473b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/press-releases/2025/Update-on-the-RESOLUTE-Phase-III-trial-for-FASENRA-in-chronic-obstructive-pulmonary-disease.html",
+      "source": "CRAWL",
+      "targetPath": "/media/press-releases/2025/update-on-the-resolute-phase-iii-trial-for-fasenra-in-chronic-obstructive-pulmonary-disease",
+      "id": "b3b7cfe3c87dadef1e26e99fadd03eb7706f68ab"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/statements/2025.html",
+      "source": "CRAWL",
+      "targetPath": "/media/statements/2025",
+      "id": "067d44ab934a427c7aa23fd1d59d74c4bf7ee8a6"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/media/thats-understandable-podcast.html",
+      "source": "CRAWL",
+      "targetPath": "/media/thats-understandable-podcast",
+      "id": "eb56069c1433a0d18fd785379240ce3839c58d8f"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/medicines/Affordability.html",
+      "source": "CRAWL",
+      "targetPath": "/medicines/affordability",
+      "id": "acbf2770fc212351197bf7321dfd5291b2159fac"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/medicines/astrazeneca-direct.html",
+      "source": "CRAWL",
+      "targetPath": "/medicines/astrazeneca-direct",
+      "id": "ddd2b419eeb2da9b7bddbb7000cf7a9a3cd2a35b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/medicines/astrazeneca-medications.html",
+      "source": "CRAWL",
+      "targetPath": "/medicines/astrazeneca-medications",
+      "id": "f4dc31ace61eea94ae66b219c1b78ef0baa5a5cf"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/medicines/product-counterfeiting.html",
+      "source": "CRAWL",
+      "targetPath": "/medicines/product-counterfeiting",
+      "id": "d98a5fe8f80ec9c07dfa55fae72e2c488199c4c2"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/medicines/transparency-in-coverage-machine-readable-files1.html",
+      "source": "CRAWL",
+      "targetPath": "/medicines/transparency-in-coverage-machine-readable-files1",
+      "id": "d2339dc856963e04e9d54eb1bc1fd4c75a9dea22"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/respiratory-inhaler-affordability.html",
+      "source": "CRAWL",
+      "targetPath": "/respiratory-inhaler-affordability",
+      "id": "770c88a94ab8e9d34f7b531166d06b25803fac44"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sitemap.html",
+      "source": "CRAWL",
+      "targetPath": "/sitemap",
+      "id": "cb1da9187a50c4ddfd22136f52b7eaefb1f074c3"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability",
+      "id": "f5c834403e45de4f154c8c1d93ce27f3bf7d6848"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/actonhealthequity.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/actonhealthequity",
+      "id": "3a1b8e76a6fafdb37784f1a968d625ae5e6c9924"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/community-investments.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/community-investments",
+      "id": "cf2c712853bf6ab4a479851988fdc457ed816a73"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency",
+      "id": "d7803812a59bd1f402e656de91f2da89bf7c52e7"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/contributions-disclosure.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/contributions-disclosure",
+      "id": "255e315065a725622a48ae5bba8a70e5727e7d95"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/financial-conflict-of-interest.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/financial-conflict-of-interest",
+      "id": "ea1ae97ae9d1aa43c8738c317610674532e70ee7"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/physician-engagement.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/physician-engagement",
+      "id": "316577080e0ceeaaea75f58e45ae313134d0dbeb"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/political-contributions.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/political-contributions",
+      "id": "4e2f66298c28ee2df786756f01993b2ee2a80d0c"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/postmarketing-study-commitments.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/postmarketing-study-commitments",
+      "id": "fe88bc16a811b86c2d5e8cd7efcdb25e240b91dc"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Corporate-transparency/us-compliance-program.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/corporate-transparency/us-compliance-program",
+      "id": "5b5383b762dd4ae661ae9624c2a0e5a97624e398"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/employee-volunteerism-giving.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/employee-volunteerism-giving",
+      "id": "10aa73ac4534c94f33d9a396428f4e50d96f4af9"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/healthcare-foundation.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/healthcare-foundation",
+      "id": "40a3c227276a2b4ab3c293dc56cf4ea4ac04de7b"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/healthcare-foundation/change.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/healthcare-foundation/change",
+      "id": "16ae55b81b1f2ad0a32c4c3505d289bf54beb558"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/healthcare-foundation/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/healthcare-foundation/faqs",
+      "id": "8841aea68202cf0a1d2c1241819693160e1b2f6a"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/healthcare-foundation/past-programs.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/healthcare-foundation/past-programs",
+      "id": "ee4e196503da2042b35f963af39be0627c3e546a"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/patient-programs.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/patient-programs",
+      "id": "2ebaa385dfe385d464b378c32f7583375a783a4e"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Request-Support.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/request-support",
+      "id": "568a99a5e9a8122166d490c5262d141ef926fc54"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Request-Support/faqs.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/request-support/faqs",
+      "id": "c24eda887b97c4ee7f004fbcfd84625efab3f750"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Request-Support/medical-education-office.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/request-support/medical-education-office",
+      "id": "339a4c288a439ed5740c6d97dedef0ded894da7f"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/sustainability/Responsible-business.html",
+      "source": "CRAWL",
+      "targetPath": "/sustainability/responsible-business",
+      "id": "400d078aac91839c5b986d71ad9634d7b8fd485d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/whatsciencecando.html",
+      "source": "CRAWL",
+      "targetPath": "/whatsciencecando",
+      "id": "8fcafbd9159c21cd0e8ecb2cd8abfeef5453985d"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/whatsciencecando.html?source=ALL_C_C_506&umedium=DISPLAY&uadpub=Website&ucampaign=WSCD2024&ucreative=WSCD_Unbranded_Edelman&uplace=Edelman_Web&outcome=UDTC&cmpid=1",
+      "source": "CRAWL",
+      "targetPath": "/whatsciencecando",
+      "id": "5f34ef4f7c697ad4206e77e33fef025d11cde3db"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/whatsciencecando/campaign-films.html",
+      "source": "CRAWL",
+      "targetPath": "/whatsciencecando/campaign-films",
+      "id": "70a412342fce7f2e57bb57f5343ecdd06a3d36f1"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/whatsciencecando/our-impact-our-people.html",
+      "source": "CRAWL",
+      "targetPath": "/whatsciencecando/our-impact-our-people",
+      "id": "29b483921d0a001fcca0aae6e8668a38a31f8c68"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/whatsciencecando/thank-you-science.html",
+      "source": "CRAWL",
+      "targetPath": "/whatsciencecando/thank-you-science",
+      "id": "2d97e9169d3693b83b3f51877b1fc146fda02c2b"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.astrazeneca-us.com/content/az-us.html",
+      "status": "301 Moved Permanently Redirect: https://www.astrazeneca-us.com/"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//policy.cookiereports.com/81bd36d9-en-gb.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_bwnk6hrn",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_j9xsiio2",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_iu15j4ge",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_q6jwvmou",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_pqus359n",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_cljv5dmn",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_gfnq67q8",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.youtube.com/embed/55z08QfXRJg?enablejsapi=1&wmode=transparent",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_dpx95wu0",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_9n1bn9fa",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com//www.kaltura.com/p/432521/sp/43252100/embedIframeJs/uiconf_id/31013252/partner_id/432521?iframeembed=true&playerId=&entry_id=1_yg75eun7",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.astrazeneca-us.com/content/dam/az-us/Documents/AZHCF%202015%20Annual%20Report%20Single%20Pages%20FINAL.PDF",
+      "status": "content type is not text/html. Content type: application/pdf"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1,\"E_404\":12,\"others\":1}",
+  "error": null
+}
